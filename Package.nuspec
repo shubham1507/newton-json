@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>shubham1507.newton-json</id>
+    <version>1.0.2</version>
+    <authors>snj</authors>
+    <owners>snj</owners>
+    <license type="expression">MIT</license>
+    <description>Simple Calculator lib DLL</description>
+    <projectUrl>https://github.com/pampas93/NuGet-Experiments/tree/master/newton-json</projectUrl>
+  </metadata>
+  <files>
+    <!-- <file src="Win32\Release\newton-json.dll" target="LibTest\x86\"></file> -->
+    <file src="x64\Release\newton-json.dll" target="LibTest\x64\"></file>
+  </files>
+</package>
